@@ -18,5 +18,5 @@ I'm a frontend developer passionate about creating modern, interactive, user-fri
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chblnas&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chblnas&show_icons=true&layout=compact&theme=radical&count_private=true)
 
