@@ -1,6 +1,6 @@
 # About me
 
-I'm a frontend developer passionate about creating modern, interactive, user-friendly, and accessible interfaces. I love exploring new technologies and improving my skills in interface development.
+Hello! My name is Peter Ermalyuk. I'm a frontend developer passionate about creating modern, interactive, user-friendly, and accessible interfaces. I love exploring new technologies and improving my skills in interface development.
 
 ---
 
