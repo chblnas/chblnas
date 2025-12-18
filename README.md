@@ -24,22 +24,6 @@ Current stack:
   <img align="left" alt="typescript" width="40" height="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img align="left" alt="javascript" width="40" height="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img align="left" alt="html5" width="40" height="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img align="left" alt="css3" width="40" height="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</a>
-<a href="https://sass-lang.com/" target="_blank">
-  <img align="left" alt="sass" width="40" height="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-</a>
 <a href="https://tailwindcss.com/" target="_blank">
   <img align="left" alt="tailwindcss" width="40" height="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
